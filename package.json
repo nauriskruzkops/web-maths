@@ -1,0 +1,21 @@
+{
+  "name": "math-crocolab",
+  "version": "1.0.0",
+  "description": "MATH frontend",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "ts": "./node_modules/.bin/tsc",
+    "ts:watch": "yarn ts -w"
+  },
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.28.3"
+  },
+  "dependencies": {
+    "@types/bootstrap": "^4",
+    "@types/jquery": "^3",
+    "bootstrap": "^4",
+    "jquery": "^3",
+    "typescript": "^3"
+  }
+}

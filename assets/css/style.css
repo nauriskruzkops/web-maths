@@ -1,0 +1,30 @@
+body, html {
+    height: 100%;
+}
+body {
+    background-color: #fcfcfc;
+}
+
+.npad {
+    font-size: 120%;
+    position: fixed;
+    bottom: 20px;
+    width: 100%;
+}
+.npad .npad-line {}
+.npad .npad-btn {
+    font-size: 150%;
+    width: 30%;
+}
+.npad .npad-btn {
+    border: 1px solid #ff8582;
+}
+
+.math-screen {
+    margin-top: 25%;
+    text-align: center;
+}
+.math-screen .math-state {
+    font-size: 180%;
+}
+
